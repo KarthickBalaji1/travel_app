@@ -3,7 +3,9 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  // Api base url
+    baseApiUrl:"http://localhost:8001/api/v1/karthick",
 };
 
 /*
